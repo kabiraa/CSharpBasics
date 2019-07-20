@@ -1,0 +1,11 @@
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/bin/Debug/netcoreapp2.2/C#Concepts.deps.json
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/bin/Debug/netcoreapp2.2/C#Concepts.runtimeconfig.json
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/bin/Debug/netcoreapp2.2/C#Concepts.runtimeconfig.dev.json
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/bin/Debug/netcoreapp2.2/C#Concepts.dll
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/bin/Debug/netcoreapp2.2/C#Concepts.pdb
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/obj/Debug/netcoreapp2.2/C#Concepts.csprojAssemblyReference.cache
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/obj/Debug/netcoreapp2.2/C#Concepts.csproj.CoreCompileInputs.cache
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/obj/Debug/netcoreapp2.2/C#Concepts.AssemblyInfoInputs.cache
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/obj/Debug/netcoreapp2.2/C#Concepts.AssemblyInfo.cs
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/obj/Debug/netcoreapp2.2/C#Concepts.dll
+/Users/owner/Desktop/Gaurav Projects/C#Concepts/obj/Debug/netcoreapp2.2/C#Concepts.pdb
